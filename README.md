@@ -13,4 +13,6 @@ Basic Git kodlari
 
 6.  git commit -m "bu bir testdir"
 
+7.  git push origin master
+
 
